@@ -1,0 +1,82 @@
+[
+    {
+        "activity": "Calcular el cuadrado de un número - Crea una función que reciba un número y devuelva su cuadrado. (Tipo de función: Declaración de función)",
+        "solution": "ejercicios/ejercicio_01.js"
+    },
+    {
+        "activity": "Saludar con nombre por defecto - Crea una función que salude a una persona por su nombre. Si no se proporciona un nombre, usa 'Invitado'. (Tipo de función: Expresión de función)",
+        "solution": "ejercicios/ejercicio_02.js"
+    },
+    {
+        "activity": "Sumar elementos de un arreglo - Crea una función que sume todos los números de un arreglo. (Tipo de función: Función flecha)",
+        "solution": "ejercicios/ejercicio_03.js"
+    },
+    {
+        "activity": "Ejecutar un mensaje instantáneamente - Crea una función que imprima '¡Bienvenido!' en la consola al definirse. (Tipo de función: IIFE)",
+        "solution": "ejercicios/ejercicio_04.js"
+    },
+    {
+        "activity": "Contar vocales en una cadena - Crea una función que cuente las vocales (a, e, i, o, u) en una cadena. (Tipo de función: Función recursiva)",
+        "solution": "ejercicios/ejercicio_05.js"
+    },
+    {
+        "activity": "Filtrar números mayores a 10 - Crea una función que reciba un arreglo y devuelva solo los números mayores a 10. (Tipo de función: Función de orden superior)",
+        "solution": "ejercicios/ejercicio_06.js"
+    },
+    {
+        "activity": "Convertir a mayúsculas - Crea una función que convierta una cadena a mayúsculas. (Tipo de función: Función flecha)",
+        "solution": "ejercicios/ejercicio_07.js"
+    },
+    {
+        "activity": "Temporizador con mensaje - Crea una función que imprima un mensaje después de 3 segundos usando setTimeout. (Tipo de función: Función anónima)",
+        "solution": "ejercicios/ejercicio_08.js"
+    },
+    {
+        "activity": "Crear un contador privado - Crea una función que devuelva otra función para contar incrementos, manteniendo el contador privado. (Tipo de función: IIFE con closure)",
+        "solution": "ejercicios/ejercicio_09.js"
+    },
+    {
+        "activity": "Calcular factorial - Crea una función que calcule el factorial de un número. (Tipo de función: Función recursiva)",
+        "solution": "ejercicios/ejercicio_10.js"
+    },
+    {
+        "activity": "Verificar si un número es par - Crea una función que determine si un número es par. (Tipo de función: Declaración de función)",
+        "solution": "ejercicios/ejercicio_11.js"
+    },
+    {
+        "activity": "Multiplicar elementos de un arreglo - Crea una función que multiplique todos los números de un arreglo. (Tipo de función: Función de orden superior)",
+        "solution": "ejercicios/ejercicio_12.js"
+    },
+    {
+        "activity": "Reemplazar espacios por guiones - Crea una función que reemplace los espacios en una cadena por guiones. (Tipo de función: Expresión de función)",
+        "solution": "ejercicios/ejercicio_13.js"
+    },
+    {
+        "activity": "Generar un ID único - Crea una función que genere un ID único basado en un contador interno. (Tipo de función: IIFE con closure)",
+        "solution": "ejercicios/ejercicio_14.js"
+    },
+    {
+        "activity": "Invertir una cadena - Crea una función que invierta una cadena de texto. (Tipo de función: Función recursiva)",
+        "solution": "ejercicios/ejercicio_15.js"
+    },
+    {
+        "activity": "Sumar argumentos variables - Crea una función que sume un número variable de argumentos. (Tipo de función: Función flecha con parámetro rest)",
+        "solution": "ejercicios/ejercicio_16.js"
+    },
+    {
+        "activity": "Ejecutar operación personalizada - Crea una función que reciba dos números y una función callback para realizar una operación. (Tipo de función: Función de orden superior)",
+        "solution": "ejercicios/ejercicio_17.js"
+    },
+    {
+        "activity": "Validar correo electrónico - Crea una función que valide si una cadena es un correo electrónico básico (contiene @ y .com). (Tipo de función: Declaración de función)",
+        "solution": "ejercicios/ejercicio_18.js"
+    },
+    {
+        "activity": "Retrasar ejecución de un mensaje - Crea una función que imprima un mensaje después de un tiempo definido por el usuario. (Tipo de función: Función anónima con setTimeout)",
+        "solution": "ejercicios/ejercicio_19.js"
+    },
+    {
+        "activity": "Calcular promedio de un arreglo - Crea una función que calcule el promedio de un arreglo de números. (Tipo de función: Función flecha)",
+        "solution": "ejercicios/ejercicio_20.js"
+    }
+]
