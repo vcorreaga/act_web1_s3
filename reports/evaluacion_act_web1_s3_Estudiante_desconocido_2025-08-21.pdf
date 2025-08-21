@@ -41,14 +41,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 708.346692913385823 Td
-(Repositorio: Diegoarango20/act_web1_s3) Tj
+(Repositorio: CMARTINEZ-095/act_web1_s3) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 21/8/2025, 14:13:45) Tj
+(Fecha de evaluación: 21/8/2025, 14:15:58) Tj
 ET
 BT
 /F1 10 Tf
@@ -551,7 +551,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 402.6533858267716255 Td
-(4.0) Tj
+(5.0) Tj
 ET
 1. g
 0.78 G
@@ -681,7 +681,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 364.2533858267715914 Td
-(5.0) Tj
+(4.0) Tj
 ET
 1. g
 0.78 G
@@ -876,7 +876,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 306.6533858267715686 Td
-(5.0) Tj
+(4.0) Tj
 ET
 1. g
 0.78 G
@@ -1331,7 +1331,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 172.253385826771364 Td
-(3.0) Tj
+(2.0) Tj
 ET
 1. g
 0.78 G
@@ -1497,7 +1497,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 5504
+/Length 5439
 >>
 stream
 0.5670000000000001 w
@@ -1550,8 +1550,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 663.5081102362204319 Td
-(El código no cumple con la descripción de la actividad. El ciclo while cuenta del 1 al 50 y muestra los números) Tj
-T* (divisibles por 3 y 5 en lugar de una cuenta regresiva de 20 a 1 y el mensaje '¡Despegue!'.) Tj
+(El código no resuelve el problema planteado. En lugar de una cuenta regresiva desde 20 hasta 1 mostrando cada) Tj
+T* (número y '¡Despegue!', muestra los números divisibles por 3 y 5 entre 1 y 50.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1594,8 +1594,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 537.9884251968503577 Td
-(La solución es correcta y eficiente, cumpliendo con los requisitos del problema. El código es limpio y fácil de) Tj
-T* (entender, utilizando nombres de variables descriptivos.) Tj
+(La solución es correcta, eficiente y bien estructurada. Cumple con todos los requisitos de la actividad y utiliza) Tj
+T* (buenas prácticas al incrementar de 2 en 2.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1638,9 +1638,9 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 412.4687401574803403 Td
-(La solución implementa un validador de contraseñas con criterios de seguridad, en lugar de simplemente verificar) Tj
-T* ('admin123' como lo pedía la descripción original.  El uso de expresiones regulares es correcto, pero la descripción) Tj
-T* (no se cumple completamente.) Tj
+(El código cumple con los requisitos de validación de contraseña, pero no con la descripción del problema original) Tj
+T* (\(validar 'admin123'\). Deberías enfocarte en seguir la descripción del problema al pie de la letra y luego refactorizar) Tj
+T* (para generalizar la solución, si es necesario.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1684,9 +1684,9 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 263.9490551181104365 Td
-(El código funciona, pero no cumple con la condición solicitada \(número > 95\). Se debe modificar la condición del) Tj
-T* (while para que coincida con la descripción del problema. Además, el mensaje final debe indicar que salió un) Tj
-T* (número mayor a 95, no 50.) Tj
+(El código funciona, pero no cumple exactamente con la descripción del problema. Debería detenerse cuando el) Tj
+T* (número sea mayor a 95, no cuando sea 50. Considera modificar la condición del `while` para que coincida con la) Tj
+T* (descripción.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1729,9 +1729,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 126.9293700787404759 Td
-(La función calcula correctamente el factorial. Podrías mejorar la presentación del proceso paso a paso dentro del) Tj
-T* (ciclo while para cumplir completamente con la descripción de la actividad. Además, sería bueno agregar validación) Tj
-T* (para el ingreso del número.) Tj
+(La solución es correcta y funcional, pero no está implementada como una función como se solicitaba. Se podría) Tj
+T* (mejorar encapsulando la lógica en una función para mayor reusabilidad y siguiendo mejor las instrucciones.) Tj
 ET
 BT
 /F1 8 Tf
@@ -1759,7 +1758,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 6053
+/Length 6083
 >>
 stream
 0.5670000000000001 w
@@ -1791,7 +1790,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 726.6892125984252289 Td
-(Calificación: 4.0/5.0) Tj
+(Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -1805,8 +1804,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(La solución es correcta y funcional, utilizando un ciclo `while` para buscar un número en el array. Sería) Tj
-T* (recomendable validar si el valor ingresado por el usuario es realmente un número antes de realizar la búsqueda.) Tj
+(La solución es correcta y eficiente. El código es legible y bien estructurado, cumpliendo con los requisitos del) Tj
+T* (ejercicio. Considera usar `const` para `i` en el bucle `for` si no se modifica.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1849,13 +1848,14 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 569.8309448818897636 Td
-(La solución es correcta y eficiente. El código es legible y cubre los casos borde \(números negativos y cero\).) Tj
+(La solución es correcta y eficiente. El código es legible y bien estructurado, cubriendo el caso especial del número) Tj
+T* (0.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 545.65771653543311 Td
+39.6850393700787407 534.15771653543311 Td
 (Actividad 8: Utiliza un ciclo while para generar los primeros 15 números de la secuencia de Fibonacci.) Tj
 T* (Muestra cada número de la secuencia.) Tj
 ET
@@ -1863,43 +1863,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 518.4884251968503577 Td
+51.0236220472441033 506.9884251968504145 Td
 (Archivo esperado: ejercicios-while/ejercicio_while_08.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 502.8191338582677758 Td
+51.0236220472441033 491.319133858267719 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 487.1498425196850803 Td
-(Calificación: 5.0/5.0) Tj
+51.0236220472441033 475.6498425196850803 Td
+(Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 471.4805511811023848 Td
+51.0236220472441033 459.9805511811024417 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 455.8112598425197461 Td
-(La solución es correcta y eficiente. El código es claro, legible y cumple con el objetivo de generar la secuencia de) Tj
-T* (Fibonacci utilizando un ciclo while. Se podria mejorar la documentacion del codigo \(comentarios\).) Tj
+62.3622047244094517 444.3112598425197461 Td
+(El código genera la secuencia de Fibonacci correctamente. La descripción original pedía 15 números, pero el) Tj
+T* (código genera 20, lo cual es un pequeño detalle. Se podría mejorar la legibilidad con comentarios más descriptivos.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 420.1380314960630926 Td
+39.6850393700787407 408.6380314960630926 Td
 (Actividad 9: Crea un juego que use un ciclo while donde el usuario debe adivinar un número entre 1 y 50.) Tj
 T* (Proporciona pistas \('muy alto', 'muy bajo', 'cerca'\) y limita a 7 intentos máximo.) Tj
 ET
@@ -1907,43 +1907,44 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 392.9687401574804539 Td
+51.0236220472441033 381.4687401574804539 Td
 (Archivo esperado: ejercicios-while/ejercicio_while_09.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 377.2994488188977584 Td
+51.0236220472441033 365.7994488188977584 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 361.6301574803151198 Td
+51.0236220472441033 350.1301574803151198 Td
 (Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 345.9608661417324242 Td
+51.0236220472441033 334.4608661417324811 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 330.2915748031497856 Td
-(El código funciona correctamente y cumple con los requisitos del problema. Se podría mejorar la experiencia de) Tj
-T* (usuario indicando qué tan cerca está el número ingresado al número secreto \(ej: 'cerca', 'muy lejos'\).) Tj
+62.3622047244094517 318.7915748031498424 Td
+(El código resuelve correctamente el problema. Podrías mejorar la legibilidad usando constantes para los límites del) Tj
+T* (rango y el número máximo de intentos. Considera agregar validación de entrada para asegurar que el usuario) Tj
+T* (ingresa un número.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 294.6183464566930752 Td
+39.6850393700787407 271.6183464566931889 Td
 (Actividad 10: Desarrolla un programa que use un ciclo while para procesar calificaciones de estudiantes.) Tj
 T* (Debe continuar pidiendo calificaciones hasta que se ingrese -1, luego calcular y mostrar el promedio, la) Tj
 T* (calificación más alta y más baja.) Tj
@@ -1952,43 +1953,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 255.9490551181104365 Td
+51.0236220472441033 232.9490551181105502 Td
 (Archivo esperado: ejercicios-while/ejercicio_while_10.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 240.2797637795277979 Td
+51.0236220472441033 217.2797637795277979 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 224.6104724409451592 Td
+51.0236220472441033 201.6104724409451592 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 208.9411811023625205 Td
+51.0236220472441033 185.9411811023625205 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 193.2718897637798818 Td
-(La solución es correcta y completa, calcula el promedio, la nota más alta y la más baja correctamente. El código es) Tj
-T* (limpio y fácil de entender, con validación de entrada.) Tj
+62.3622047244094517 170.2718897637798818 Td
+(La solución es correcta y completa. El código es legible, bien estructurado y cumple con los requisitos del) Tj
+T* (problema. ¡Excelente trabajo!) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 157.5986614173231146 Td
+39.6850393700787407 134.5986614173232283 Td
 (Actividad 11: Usa un ciclo for anidado para crear las tablas de multiplicar del 1 al 10. Cada tabla debe) Tj
 T* (mostrarse claramente separada y formateada.) Tj
 ET
@@ -1996,37 +1997,37 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 130.4293700787404759 Td
+51.0236220472441033 107.4293700787405896 Td
 (Archivo esperado: ejercicios-for/ejercicio_for_01.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 114.7600787401578373 Td
+51.0236220472441033 91.7600787401578373 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 99.0907874015751986 Td
-(Calificación: 5.0/5.0) Tj
+51.0236220472441033 76.0907874015751986 Td
+(Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 83.4214960629925599 Td
+51.0236220472441033 60.4214960629925599 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 67.7522047244099213 Td
-(Excelente solución. El código es claro, funcional y resuelve el problema de las tablas de multiplicar del 1 al 12,) Tj
-T* (cumpliendo con la descripción. Bien hecho.) Tj
+62.3622047244094517 44.7522047244099213 Td
+(La solución es correcta y funciona como se espera. Se podría mejorar la legibilidad del código incluyendo) Tj
+T* (comentarios más descriptivos y utilizando constantes para los límites de los bucles.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2054,7 +2055,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 5818
+/Length 5710
 >>
 stream
 0.5670000000000001 w
@@ -2100,8 +2101,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(El código genera una pirámide, no un diamante como se solicitaba. Además, la descripción original pedía un) Tj
-T* (diamante, pero el comentario en el código indica una pirámide de 10 niveles, generando confusión.) Tj
+(El código genera una pirámide, no un diamante como se solicitó. Se requiere un ciclo adicional para la parte inferior) Tj
+T* (del diamante.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2144,8 +2145,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 569.8309448818897636 Td
-(La solución es correcta y eficiente. El código es limpio, fácil de entender y sigue buenas prácticas. ¡Excelente) Tj
-T* (trabajo!) Tj
+(La solución es correcta y eficiente. El código es legible, bien estructurado y cumple con todos los requisitos de la) Tj
+T* (actividad.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2188,8 +2189,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 444.3112598425197461 Td
-(La solución es correcta, eficiente y bien estructurada. El código es limpio y fácil de entender, utilizando la) Tj
-T* (optimización de `Math.sqrt\(num\)` para mejorar el rendimiento.) Tj
+(La solución es correcta y eficiente, utilizando ciclos for anidados para encontrar números primos. El código es) Tj
+T* (legible y bien estructurado, cumpliendo con todos los requisitos del ejercicio.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2232,7 +2233,7 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 318.7915748031498424 Td
-(La solución es correcta, eficiente y fácil de entender. El código es limpio y cumple con el objetivo de la actividad.) Tj
+(La solución es correcta, clara y concisa. El código es legible y cumple con los requisitos del problema.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2275,8 +2276,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 204.7718897637798818 Td
-(Excelente solución. El código es claro, completo y considera casos especiales como exponentes negativos y cero.) Tj
-T* (La explicación paso a paso es muy útil.) Tj
+(Excelente solución. El código es claro, funcional y cumple con todos los requisitos, incluyendo la demostración) Tj
+T* (paso a paso del cálculo. ¡Muy bien!) Tj
 ET
 BT
 /F2 10 Tf
@@ -2319,8 +2320,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 79.2522047244098076 Td
-(La solución es correcta y eficiente. El código es claro, bien estructurado y cumple con el objetivo planteado) Tj
-T* (utilizando ciclos for anidados para generar la matriz y mostrarla formateada.) Tj
+(Excelente solución. El código es limpio, eficiente y cumple con todos los requisitos de la actividad. El formateo de la) Tj
+T* (matriz es un buen detalle.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2348,7 +2349,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Length 3686
+/Length 3715
 >>
 stream
 0.5670000000000001 w
@@ -2380,7 +2381,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 726.6892125984252289 Td
-(Calificación: 3.0/5.0) Tj
+(Calificación: 2.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -2394,8 +2395,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(El código no cumple con la descripción del problema \(contar vocales\).  Realiza un conteo general de caracteres.) Tj
-T* (Debes enfocarte en las vocales a, e, i, o, u.) Tj
+(El código proporcionado cuenta la frecuencia de cada carácter en una cadena, no solo las vocales. Necesita ser) Tj
+T* (modificado para cumplir con el requisito específico de contar únicamente las vocales por separado.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2438,8 +2439,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 569.8309448818897636 Td
-(El código proporcionado no resuelve la actividad descrita. Implementa un simulador de dados en lugar de generar) Tj
-T* (la secuencia solicitada \(2, 4, 8, ... , 1024\).) Tj
+(El código presentado no resuelve el problema planteado en la descripción. Implementa un simulador de) Tj
+T* (lanzamiento de dados en lugar de generar la secuencia y la suma solicitada.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2483,36 +2484,35 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 432.8112598425197461 Td
-(La solución es correcta y eficiente. El código está bien estructurado y utiliza buenas prácticas como la limpieza del) Tj
-T* (texto antes de la validación.) Tj
+(Solución correcta y eficiente. El código es limpio, legible y cumple con todos los requisitos del problema.) Tj
 ET
 BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 397.1380314960630926 Td
+39.6850393700787407 408.6380314960630926 Td
 (Resumen General) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 373.7994488188977584 Td
-(Excelente trabajo. Completó 20/20 actividades \(100%\) con una calificación promedio de 4.0/5. Demuestra buen) Tj
-T* (dominio de los conceptos.) Tj
+39.6850393700787407 385.2994488188977584 Td
+(Buen trabajo general. Completó 20/20 actividades \(100%\) con una calificación promedio de 4.0/5. Hay) Tj
+T* (oportunidades de mejora en algunos aspectos.) Tj
 ET
 BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 332.4569291338584094 Td
+39.6850393700787407 343.9569291338584094 Td
 (Recomendaciones) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 309.1183464566930752 Td
+51.0236220472441033 320.6183464566930752 Td
 (• Revisar y mejorar las actividades con calificación baja) Tj
 ET
 BT
@@ -2701,7 +2701,7 @@ endobj
 27 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250821141345-05'00')
+/CreationDate (D:20250821141558-05'00')
 >>
 endobj
 28 0 obj
@@ -2715,41 +2715,41 @@ endobj
 xref
 0 29
 0000000000 65535 f 
-0000048738 00000 n 
-0000050585 00000 n 
+0000048624 00000 n 
+0000050471 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
 0000026916 00000 n 
 0000027053 00000 n 
-0000032609 00000 n 
-0000032746 00000 n 
-0000038851 00000 n 
-0000038989 00000 n 
-0000044860 00000 n 
-0000044999 00000 n 
-0000048820 00000 n 
-0000048946 00000 n 
-0000049077 00000 n 
-0000049211 00000 n 
-0000049349 00000 n 
-0000049473 00000 n 
-0000049602 00000 n 
-0000049734 00000 n 
-0000049870 00000 n 
-0000049998 00000 n 
-0000050125 00000 n 
-0000050254 00000 n 
-0000050387 00000 n 
-0000050489 00000 n 
-0000050838 00000 n 
-0000050924 00000 n 
+0000032544 00000 n 
+0000032681 00000 n 
+0000038816 00000 n 
+0000038954 00000 n 
+0000044717 00000 n 
+0000044856 00000 n 
+0000048706 00000 n 
+0000048832 00000 n 
+0000048963 00000 n 
+0000049097 00000 n 
+0000049235 00000 n 
+0000049359 00000 n 
+0000049488 00000 n 
+0000049620 00000 n 
+0000049756 00000 n 
+0000049884 00000 n 
+0000050011 00000 n 
+0000050140 00000 n 
+0000050273 00000 n 
+0000050375 00000 n 
+0000050724 00000 n 
+0000050810 00000 n 
 trailer
 <<
 /Size 29
 /Root 28 0 R
 /Info 27 0 R
-/ID [ <5EE14FBA84D1C1E741BCDE8950A2B5B5> <5EE14FBA84D1C1E741BCDE8950A2B5B5> ]
+/ID [ <B17B17D6EB67599535E690EA8A69C5D4> <B17B17D6EB67599535E690EA8A69C5D4> ]
 >>
 startxref
-51028
+50914
 %%EOF
