@@ -929,8 +929,8 @@
     "evaluatedAt": "2025-08-21T19:48:58.235Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   },
-  "fquintero32/act_web1_s3": {
-    "repositoryUrl": "fquintero32/act_web1_s3",
+  "luarango/act_web1_s3": {
+    "repositoryUrl": "luarango/act_web1_s3",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
@@ -1083,7 +1083,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-21T19:50:42.825Z",
+    "evaluatedAt": "2025-08-21T19:52:30.334Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
