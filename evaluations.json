@@ -154,159 +154,159 @@
     "evaluatedAt": "2025-08-21T19:11:34.200Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "CMARTINEZ-095/act_web1_s3": {
-    "repositoryUrl": "CMARTINEZ-095/act_web1_s3",
-    "studentName": "Estudiante desconocido",
+  "sepumarcela/act_web1_s3": {
+    "repositoryUrl": "sepumarcela/act_web1_s3",
+    "studentName": "Yuly Marcela Sepulveda Sepulveda",
     "activities": [
       {
         "activityDescription": "Crea un programa que use un ciclo while para mostrar una cuenta regresiva desde 20 hasta 1, mostrando cada número en la consola. Al final debe mostrar '¡Despegue!'.",
         "solutionFile": "ejercicios-while/ejercicio_while_01.js",
-        "score": 1,
+        "score": 2,
         "fileFound": true,
-        "feedback": "El código no resuelve el problema planteado. En lugar de una cuenta regresiva desde 20 hasta 1 mostrando cada número y '¡Despegue!', muestra los números divisibles por 3 y 5 entre 1 y 50."
+        "feedback": "El código no cumple con la descripción de la actividad (cuenta regresiva de 20 a 1 y '¡Despegue!'). Utiliza un ciclo while y muestra números divisibles por 3 y 5 del 1 al 50, aunque lo hace de forma poco legible.  Debería seguir la descripción del ejercicio."
       },
       {
         "activityDescription": "Utiliza un ciclo while para calcular la suma de todos los números pares entre 1 y 50. Muestra el resultado final y cuántos números pares se sumaron.",
         "solutionFile": "ejercicios-while/ejercicio_while_02.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta, eficiente y bien estructurada. Cumple con todos los requisitos de la actividad y utiliza buenas prácticas al incrementar de 2 en 2."
+        "feedback": "La solución es correcta y eficiente. El código es legible y cumple con el objetivo de la actividad, sumando los números pares dentro del rango especificado y contando cuántos se sumaron."
       },
       {
         "activityDescription": "Implementa un sistema que use un ciclo while para solicitar una contraseña al usuario hasta que ingrese 'admin123'. Debe mostrar cuántos intentos fallidos hubo antes del acceso correcto.",
         "solutionFile": "ejercicios-while/ejercicio_while_03.js",
-        "score": 3,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código cumple con los requisitos de validación de contraseña, pero no con la descripción del problema original (validar 'admin123'). Deberías enfocarte en seguir la descripción del problema al pie de la letra y luego refactorizar para generalizar la solución, si es necesario."
+        "feedback": "El código cumple con la validación de la contraseña, pero la descripción original pedía una contraseña específica ('admin123') y contar los intentos fallidos, lo cual no se implementó. Considera agregar el contador de intentos y ajustarlo a la contraseña 'admin123' para cumplir completamente con la descripción."
       },
       {
         "activityDescription": "Crea un programa que use un ciclo while para generar números aleatorios entre 1 y 100 hasta que salga un número mayor a 95. Muestra cada número generado y al final indica cuántos números se generaron.",
         "solutionFile": "ejercicios-while/ejercicio_while_04.js",
         "score": 3,
         "fileFound": true,
-        "feedback": "El código funciona, pero no cumple exactamente con la descripción del problema. Debería detenerse cuando el número sea mayor a 95, no cuando sea 50. Considera modificar la condición del `while` para que coincida con la descripción."
+        "feedback": "El código no cumple con la descripción del problema, ya que debe buscar un número mayor a 95, no el 50. La estructura del código es correcta y funcional, pero la lógica principal necesita ser corregida."
       },
       {
         "activityDescription": "Desarrolla una función que use un ciclo while para calcular el factorial de un número dado. Debe mostrar paso a paso cómo se va calculando el factorial.",
         "solutionFile": "ejercicios-while/ejercicio_while_05.js",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional, pero no está implementada como una función como se solicitaba. Se podría mejorar encapsulando la lógica en una función para mayor reusabilidad y siguiendo mejor las instrucciones."
+        "feedback": "Error al procesar la evaluación"
       },
       {
         "activityDescription": "Dado un array de nombres, usa un ciclo while para buscar un nombre específico. El programa debe mostrar en qué posición se encontró el nombre o indicar si no existe.",
         "solutionFile": "ejercicios-while/ejercicio_while_06.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente. El código es legible y bien estructurado, cumpliendo con los requisitos del ejercicio. Considera usar `const` para `i` en el bucle `for` si no se modifica."
+        "feedback": "La solución es correcta y eficiente. El código es limpio y fácil de entender, aplicando buenas prácticas como el uso de `break` para optimizar la búsqueda."
       },
       {
         "activityDescription": "Implementa un programa que use un ciclo while para contar cuántos dígitos tiene un número entero positivo. Por ejemplo, 12345 tiene 5 dígitos.",
         "solutionFile": "ejercicios-while/ejercicio_while_07.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente. El código es legible y bien estructurado, cubriendo el caso especial del número 0."
+        "feedback": "Excelente solución. El código es claro, conciso y aborda correctamente el problema, incluyendo el caso del 0. Bien hecho."
       },
       {
         "activityDescription": "Utiliza un ciclo while para generar los primeros 15 números de la secuencia de Fibonacci. Muestra cada número de la secuencia.",
         "solutionFile": "ejercicios-while/ejercicio_while_08.js",
         "score": 4,
         "fileFound": true,
-        "feedback": "El código genera la secuencia de Fibonacci correctamente. La descripción original pedía 15 números, pero el código genera 20, lo cual es un pequeño detalle. Se podría mejorar la legibilidad con comentarios más descriptivos."
+        "feedback": "La solución es correcta y genera la secuencia de Fibonacci. Sin embargo, la descripción solicitaba 15 números y el código genera 20. Ajustar el valor del contador inicial para cumplir con la descripción."
       },
       {
         "activityDescription": "Crea un juego que use un ciclo while donde el usuario debe adivinar un número entre 1 y 50. Proporciona pistas ('muy alto', 'muy bajo', 'cerca') y limita a 7 intentos máximo.",
         "solutionFile": "ejercicios-while/ejercicio_while_09.js",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "El código resuelve correctamente el problema. Podrías mejorar la legibilidad usando constantes para los límites del rango y el número máximo de intentos. Considera agregar validación de entrada para asegurar que el usuario ingresa un número."
+        "feedback": "Error al procesar la evaluación"
       },
       {
         "activityDescription": "Desarrolla un programa que use un ciclo while para procesar calificaciones de estudiantes. Debe continuar pidiendo calificaciones hasta que se ingrese -1, luego calcular y mostrar el promedio, la calificación más alta y más baja.",
         "solutionFile": "ejercicios-while/ejercicio_while_10.js",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución es correcta y completa. El código es legible, bien estructurado y cumple con los requisitos del problema. ¡Excelente trabajo!"
+        "feedback": "La solución es correcta y funcional. Podrías mejorar la inicialización de 'mayor' y 'menor' para que sean más dinámicas y no dependan de un rango de notas específico (0-100)."
       },
       {
         "activityDescription": "Usa un ciclo for anidado para crear las tablas de multiplicar del 1 al 10. Cada tabla debe mostrarse claramente separada y formateada.",
         "solutionFile": "ejercicios-for/ejercicio_for_01.js",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es correcta y funciona como se espera. Se podría mejorar la legibilidad del código incluyendo comentarios más descriptivos y utilizando constantes para los límites de los bucles."
+        "feedback": "La solución es correcta y funcional, genera las tablas de multiplicar. Se sugiere mejorar la consistencia en el límite superior del ciclo interno (hasta 10 en lugar de 12) para cumplir estrictamente con la descripción inicial de la actividad."
       },
       {
         "activityDescription": "Implementa un programa que use ciclos for anidados para crear un patrón de asteriscos en forma de diamante: *, **, ***, ****, *****, ****, ***, **, *",
         "solutionFile": "ejercicios-for/ejercicio_for_02.js",
         "score": 3,
         "fileFound": true,
-        "feedback": "El código genera una pirámide, no un diamante como se solicitó. Se requiere un ciclo adicional para la parte inferior del diamante."
+        "feedback": "El código genera una pirámide en lugar de un diamante, lo que no cumple con la descripción del problema. La estructura del código es legible, pero necesita ajustarse para generar la figura solicitada."
       },
       {
         "activityDescription": "Dado un array de 20 números aleatorios, usa un ciclo for para encontrar: el número mayor, el menor, la suma total, el promedio, y cuántos números son pares e impares.",
         "solutionFile": "ejercicios-for/ejercicio_for_03.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente. El código es legible, bien estructurado y cumple con todos los requisitos de la actividad."
+        "feedback": "La solución es correcta y completa. El código es limpio, fácil de entender y cumple con todos los requisitos de la actividad, incluyendo el cálculo del mayor, menor, suma, promedio y conteo de pares e impares."
       },
       {
         "activityDescription": "Utiliza ciclos for anidados para encontrar y mostrar todos los números primos entre 1 y 100. Debe indicar cuántos números primos se encontraron.",
         "solutionFile": "ejercicios-for/ejercicio_for_04.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente, utilizando ciclos for anidados para encontrar números primos. El código es legible y bien estructurado, cumpliendo con todos los requisitos del ejercicio."
+        "feedback": "La solución es correcta y eficiente. El código es limpio, fácil de entender y cumple con los requisitos del ejercicio."
       },
       {
         "activityDescription": "Crea un programa que use un ciclo for para invertir una cadena de texto carácter por carácter. Muestra tanto la cadena original como la invertida.",
         "solutionFile": "ejercicios-for/ejercicio_for_05.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta, clara y concisa. El código es legible y cumple con los requisitos del problema."
+        "feedback": "La solución es correcta y eficiente. El código es legible y bien estructurado, cumpliendo con la descripción de la actividad."
       },
       {
         "activityDescription": "Implementa una función que use un ciclo for para calcular la potencia de un número sin usar Math.pow(). Debe mostrar el proceso paso a paso.",
         "solutionFile": "ejercicios-for/ejercicio_for_06.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, funcional y cumple con todos los requisitos, incluyendo la demostración paso a paso del cálculo. ¡Muy bien!"
+        "feedback": "La solución es correcta y bien implementada. El código es claro, funcional y muestra el proceso paso a paso como se solicitaba, cumpliendo con las buenas prácticas."
       },
       {
         "activityDescription": "Usa ciclos for anidados para crear una matriz 5x5 donde cada elemento sea la suma de sus índices (fila + columna). Muestra la matriz formateada.",
         "solutionFile": "ejercicios-for/ejercicio_for_07.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es limpio, eficiente y cumple con todos los requisitos de la actividad. El formateo de la matriz es un buen detalle."
+        "feedback": "La solución es correcta y eficiente. El código es limpio y fácil de entender, cumpliendo con el objetivo de la actividad."
       },
       {
         "activityDescription": "Desarrolla un programa que use un ciclo for para contar cuántas vocales (a, e, i, o, u) hay en una frase dada. Debe mostrar el conteo de cada vocal por separado.",
         "solutionFile": "ejercicios-for/ejercicio_for_08.js",
         "score": 2,
         "fileFound": true,
-        "feedback": "El código proporcionado cuenta la frecuencia de cada carácter en una cadena, no solo las vocales. Necesita ser modificado para cumplir con el requisito específico de contar únicamente las vocales por separado."
+        "feedback": "El código no resuelve el problema planteado (contar vocales), en su lugar cuenta la frecuencia de todos los caracteres. La lógica de ordenamiento es correcta, pero no aplicable al problema original. Se necesita enfocar en la especificación del conteo de vocales."
       },
       {
         "activityDescription": "Utiliza un ciclo for para generar la siguiente secuencia: 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024. Debe mostrar cada término y la suma total de la secuencia.",
         "solutionFile": "ejercicios-for/ejercicio_for_09.js",
         "score": 1,
         "fileFound": true,
-        "feedback": "El código presentado no resuelve el problema planteado en la descripción. Implementa un simulador de lanzamiento de dados en lugar de generar la secuencia y la suma solicitada."
+        "feedback": "El código presentado no corresponde a la descripción del ejercicio. En vez de generar la secuencia solicitada (2, 4, 8, 16, ...), implementa un simulador de lanzamiento de dados, lo cual no cumple con los requisitos del problema planteado."
       },
       {
         "activityDescription": "Implementa un programa que use un ciclo for para verificar si una palabra o frase es un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda). Ignora espacios y mayúsculas.",
         "solutionFile": "ejercicios-for/ejercicio_for_10.js",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "Solución correcta y eficiente. El código es limpio, legible y cumple con todos los requisitos del problema."
+        "feedback": "La solución es correcta y funcional. Se puede mejorar la legibilidad y eficiencia usando métodos de string más directos para la limpieza (replaceAll). Considera usar pruebas unitarias en lugar de console.log para validar la función."
       }
     ],
-    "overallScore": 3.95,
+    "overallScore": 3.55,
     "totalActivities": 20,
-    "completedActivities": 20,
-    "summary": "Buen trabajo general. Completó 20/20 actividades (100%) con una calificación promedio de 4.0/5. Hay oportunidades de mejora en algunos aspectos.",
+    "completedActivities": 18,
+    "summary": "Buen trabajo general. Completó 18/20 actividades (90%) con una calificación promedio de 3.5/5. Hay oportunidades de mejora en algunos aspectos.",
     "recommendations": [
       "Revisar y mejorar las actividades con calificación baja"
     ],
-    "evaluatedAt": "2025-08-21T19:15:57.890Z",
+    "evaluatedAt": "2025-08-21T19:18:08.495Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
