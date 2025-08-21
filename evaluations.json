@@ -1084,159 +1084,161 @@
     "evaluatedAt": "2025-08-21T19:54:46.428Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   },
-  "MarianaRPerez8/act_web1_s3": {
-    "repositoryUrl": "MarianaRPerez8/act_web1_s3",
+  "vastrocode72/act_web1_s3": {
+    "repositoryUrl": "vastrocode72/act_web1_s3",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Crea un programa que use un ciclo while para mostrar una cuenta regresiva desde 20 hasta 1, mostrando cada número en la consola. Al final debe mostrar '¡Despegue!'.",
         "solutionFile": "ejercicios-while/ejercicio_while_01.js",
-        "score": 1,
+        "score": 0,
         "fileFound": true,
-        "feedback": "El código no resuelve la actividad descrita. Realiza una cuenta ascendente mostrando múltiplos de 3 y 5, en lugar de una cuenta regresiva desde 20 hasta 1. Revisa la lógica del ciclo `while` y la condición para imprimir los números."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Utiliza un ciclo while para calcular la suma de todos los números pares entre 1 y 50. Muestra el resultado final y cuántos números pares se sumaron.",
         "solutionFile": "ejercicios-while/ejercicio_while_02.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente. El código es limpio y fácil de entender, cumpliendo con todos los requisitos de la actividad."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Implementa un sistema que use un ciclo while para solicitar una contraseña al usuario hasta que ingrese 'admin123'. Debe mostrar cuántos intentos fallidos hubo antes del acceso correcto.",
         "solutionFile": "ejercicios-while/ejercicio_while_03.js",
-        "score": 2,
+        "score": 0,
         "fileFound": true,
-        "feedback": "El código intenta validar una contraseña con varios criterios, pero la lógica del ciclo `while` no está completa (falta la inicialización de `valida` y `contraseña`, y la variable `intentos`). Además, la descripción de la actividad original era validar contra 'admin123', no contra criterios de complejidad."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Crea un programa que use un ciclo while para generar números aleatorios entre 1 y 100 hasta que salga un número mayor a 95. Muestra cada número generado y al final indica cuántos números se generaron.",
         "solutionFile": "ejercicios-while/ejercicio_while_04.js",
-        "score": 3,
+        "score": 0,
         "fileFound": true,
-        "feedback": "El código no cumple con la descripción del problema (busca el 50 en lugar de un número mayor a 95). La estructura del ciclo while es correcta, pero la condición es incorrecta para la tarea planteada."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Desarrolla una función que use un ciclo while para calcular el factorial de un número dado. Debe mostrar paso a paso cómo se va calculando el factorial.",
         "solutionFile": "ejercicios-while/ejercicio_while_05.js",
-        "score": 3,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución calcula el factorial correctamente, pero no cumple con el requerimiento de mostrar el paso a paso del cálculo. Además, la solución debería estar encapsulada en una función para mejor organización y reutilización."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Dado un array de nombres, usa un ciclo while para buscar un nombre específico. El programa debe mostrar en qué posición se encontró el nombre o indicar si no existe.",
         "solutionFile": "ejercicios-while/ejercicio_while_06.js",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. Podrías mejorar la legibilidad del código separando la generación del array y la búsqueda en funciones. Considera permitir al usuario ingresar el objetivo a buscar."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Implementa un programa que use un ciclo while para contar cuántos dígitos tiene un número entero positivo. Por ejemplo, 12345 tiene 5 dígitos.",
         "solutionFile": "ejercicios-while/ejercicio_while_07.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente. El código es legible y maneja el caso especial del número 0. ¡Excelente trabajo!"
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Utiliza un ciclo while para generar los primeros 15 números de la secuencia de Fibonacci. Muestra cada número de la secuencia.",
         "solutionFile": "ejercicios-while/ejercicio_while_08.js",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "El código genera la secuencia de Fibonacci correctamente. Sin embargo, la descripción pide los primeros 15 números, mientras que el código genera los primeros 20. Considera usar nombres de variables más descriptivos."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Crea un juego que use un ciclo while donde el usuario debe adivinar un número entre 1 y 50. Proporciona pistas ('muy alto', 'muy bajo', 'cerca') y limita a 7 intentos máximo.",
         "solutionFile": "ejercicios-while/ejercicio_while_09.js",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La lógica del juego es correcta y funciona como se espera. Sería bueno incluir las pistas 'cerca' y validar que la entrada del usuario sea un número dentro del rango especificado."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Desarrolla un programa que use un ciclo while para procesar calificaciones de estudiantes. Debe continuar pidiendo calificaciones hasta que se ingrese -1, luego calcular y mostrar el promedio, la calificación más alta y más baja.",
         "solutionFile": "ejercicios-while/ejercicio_while_10.js",
-        "score": 3,
+        "score": 0,
         "fileFound": true,
-        "feedback": "El programa resuelve la lógica principal, pero hay errores al calcular la nota más alta y la más baja. La condición `mayor === null || calificacion > mayor` actualiza 'menor' en lugar de 'mayor', y 'mayor' nunca se actualiza correctamente."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Usa un ciclo for anidado para crear las tablas de multiplicar del 1 al 10. Cada tabla debe mostrarse claramente separada y formateada.",
         "solutionFile": "ejercicios-for/ejercicio_for_01.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, funcional y resuelve el problema de manera eficiente.  Podrías considerar usar template literals para mejorar la legibilidad en casos más complejos."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Implementa un programa que use ciclos for anidados para crear un patrón de asteriscos en forma de diamante: *, **, ***, ****, *****, ****, ***, **, *",
         "solutionFile": "ejercicios-for/ejercicio_for_02.js",
-        "score": 3,
+        "score": 0,
         "fileFound": true,
-        "feedback": "El código genera una pirámide, no un diamante como se solicitaba.  Deberías agregar la parte inferior invertida de la pirámide para completar la figura del diamante. Considera usar un segundo ciclo for para lograrlo."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Dado un array de 20 números aleatorios, usa un ciclo for para encontrar: el número mayor, el menor, la suma total, el promedio, y cuántos números son pares e impares.",
         "solutionFile": "ejercicios-for/ejercicio_for_03.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente. El código es claro, bien estructurado y fácil de entender. ¡Excelente trabajo!"
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Utiliza ciclos for anidados para encontrar y mostrar todos los números primos entre 1 y 100. Debe indicar cuántos números primos se encontraron.",
         "solutionFile": "ejercicios-for/ejercicio_for_04.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente para encontrar números primos. El código es legible y sigue buenas prácticas al usar variables descriptivas y comentarios claros."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Crea un programa que use un ciclo for para invertir una cadena de texto carácter por carácter. Muestra tanto la cadena original como la invertida.",
         "solutionFile": "ejercicios-for/ejercicio_for_05.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente. El código es claro, fácil de entender y cumple con el objetivo de invertir la cadena utilizando un ciclo for."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Implementa una función que use un ciclo for para calcular la potencia de un número sin usar Math.pow(). Debe mostrar el proceso paso a paso.",
         "solutionFile": "ejercicios-for/ejercicio_for_06.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, conciso y cumple con todos los requisitos de la actividad, incluyendo la muestra del proceso paso a paso y el uso de un ciclo for sin utilizar Math.pow()."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Usa ciclos for anidados para crear una matriz 5x5 donde cada elemento sea la suma de sus índices (fila + columna). Muestra la matriz formateada.",
         "solutionFile": "ejercicios-for/ejercicio_for_07.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "¡Excelente! El código resuelve el problema correctamente, es claro y está bien estructurado. La solución es completa y sigue buenas prácticas."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Desarrolla un programa que use un ciclo for para contar cuántas vocales (a, e, i, o, u) hay en una frase dada. Debe mostrar el conteo de cada vocal por separado.",
         "solutionFile": "ejercicios-for/ejercicio_for_08.js",
-        "score": 2,
+        "score": 0,
         "fileFound": true,
-        "feedback": "El código no resuelve el problema planteado (contar vocales). En su lugar, cuenta la frecuencia de cada carácter. Se debe modificar el programa para que se centre en contar solo las vocales y mostrar el conteo individual de cada una."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Utiliza un ciclo for para generar la siguiente secuencia: 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024. Debe mostrar cada término y la suma total de la secuencia.",
         "solutionFile": "ejercicios-for/ejercicio_for_09.js",
-        "score": 1,
+        "score": 0,
         "fileFound": true,
-        "feedback": "El código presentado no resuelve el problema planteado en la descripción. Implementa un simulador de lanzamiento de dados en lugar de generar la secuencia solicitada (2, 4, 8, 16...). El código es funcional para la simulación de dados, pero completamente fuera de contexto."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Implementa un programa que use un ciclo for para verificar si una palabra o frase es un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda). Ignora espacios y mayúsculas.",
         "solutionFile": "ejercicios-for/ejercicio_for_10.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y bien estructurada. El código es limpio, fácil de entender y maneja correctamente la validación de palíndromos ignorando mayúsculas, espacios y caracteres no alfanuméricos."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       }
     ],
-    "overallScore": 3.75,
+    "overallScore": 0,
     "totalActivities": 20,
-    "completedActivities": 20,
-    "summary": "Buen trabajo general. Completó 20/20 actividades (100%) con una calificación promedio de 3.8/5. Hay oportunidades de mejora en algunos aspectos.",
+    "completedActivities": 0,
+    "summary": "Necesita mejorar. Completó 0/20 actividades (0%) con una calificación promedio de 0.0/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja"
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-21T19:57:02.803Z",
+    "evaluatedAt": "2025-08-21T19:58:59.398Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
