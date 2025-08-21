@@ -309,8 +309,8 @@
     "evaluatedAt": "2025-08-21T19:18:08.495Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "fquintero32/act_web1_s3": {
-    "repositoryUrl": "fquintero32/act_web1_s3",
+  "luarango/act_web1_s3": {
+    "repositoryUrl": "luarango/act_web1_s3",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
@@ -463,7 +463,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-21T19:19:58.795Z",
+    "evaluatedAt": "2025-08-21T19:21:54.568Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
