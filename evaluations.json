@@ -2407,7 +2407,7 @@
         "solutionFile": "ejercicios-for/ejercicio_for_01.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es limpio, funcional y cumple con todos los requisitos. Bien hecho con la separación de las tablas mediante líneas en blanco."
+        "feedback": "La solución es correcta y cumple con la descripción del problema. El código es legible y bien estructurado, generando las tablas de multiplicar del 1 al 12 (en lugar de 1 al 10 como decía la descripción, lo cual es incluso mejor) de forma organizada."
       },
       {
         "activityDescription": "Implementa un programa que use ciclos for anidados para crear un patrón de asteriscos en forma de diamante: *, **, ***, ****, *****, ****, ***, **, *",
@@ -2482,7 +2482,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-25T04:28:30.721Z",
+    "evaluatedAt": "2025-08-25T04:29:16.584Z",
     "evaluatedBy": "Sistema de Evaluación"
   }
 }
